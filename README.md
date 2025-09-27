@@ -9,7 +9,7 @@ An advanced yet lightweight [Anki](https://apps.ankiweb.net/) notetype, thoughtf
 
 ### Table of Contents
 
-- [Lapis](#lapis)
+
   - [Table of Contents](#table-of-contents)
   - [Why was Lapis created?](#why-was-lapis-created)
   - [Key features](#key-features)
@@ -129,7 +129,7 @@ The `Is...Card` fields let you select the kind of card you want to use by placin
 
 When using audio cards, make sure to populate your sentence audio. It falls back to the word audio, however this will be inaccurate when it's conjugated.
 
-### How do I see all my definitions?
+
 
 To navigate through all of your definitions, you can click on the left and right edges of the definition box/blockquote. As demonstrated in the GIF at the start, the definitions, *provided your setup is correct*, will be organized into three distinct fields. You can learn more about this structural choice [here](#why-three-different-fields-for-definitions).
 
